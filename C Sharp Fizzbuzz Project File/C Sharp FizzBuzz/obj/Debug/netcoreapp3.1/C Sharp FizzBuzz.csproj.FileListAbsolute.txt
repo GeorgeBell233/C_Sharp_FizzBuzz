@@ -1,0 +1,12 @@
+C:\Users\georg\source\repos\C Sharp FizzBuzz\C Sharp FizzBuzz\bin\Debug\netcoreapp3.1\C Sharp FizzBuzz.exe
+C:\Users\georg\source\repos\C Sharp FizzBuzz\C Sharp FizzBuzz\bin\Debug\netcoreapp3.1\C Sharp FizzBuzz.deps.json
+C:\Users\georg\source\repos\C Sharp FizzBuzz\C Sharp FizzBuzz\bin\Debug\netcoreapp3.1\C Sharp FizzBuzz.runtimeconfig.json
+C:\Users\georg\source\repos\C Sharp FizzBuzz\C Sharp FizzBuzz\bin\Debug\netcoreapp3.1\C Sharp FizzBuzz.runtimeconfig.dev.json
+C:\Users\georg\source\repos\C Sharp FizzBuzz\C Sharp FizzBuzz\bin\Debug\netcoreapp3.1\C Sharp FizzBuzz.dll
+C:\Users\georg\source\repos\C Sharp FizzBuzz\C Sharp FizzBuzz\bin\Debug\netcoreapp3.1\C Sharp FizzBuzz.pdb
+C:\Users\georg\source\repos\C Sharp FizzBuzz\C Sharp FizzBuzz\obj\Debug\netcoreapp3.1\C Sharp FizzBuzz.AssemblyInfoInputs.cache
+C:\Users\georg\source\repos\C Sharp FizzBuzz\C Sharp FizzBuzz\obj\Debug\netcoreapp3.1\C Sharp FizzBuzz.AssemblyInfo.cs
+C:\Users\georg\source\repos\C Sharp FizzBuzz\C Sharp FizzBuzz\obj\Debug\netcoreapp3.1\C Sharp FizzBuzz.csproj.CoreCompileInputs.cache
+C:\Users\georg\source\repos\C Sharp FizzBuzz\C Sharp FizzBuzz\obj\Debug\netcoreapp3.1\C Sharp FizzBuzz.dll
+C:\Users\georg\source\repos\C Sharp FizzBuzz\C Sharp FizzBuzz\obj\Debug\netcoreapp3.1\C Sharp FizzBuzz.pdb
+C:\Users\georg\source\repos\C Sharp FizzBuzz\C Sharp FizzBuzz\obj\Debug\netcoreapp3.1\C Sharp FizzBuzz.genruntimeconfig.cache
